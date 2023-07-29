@@ -1,4 +1,5 @@
 **Pokrastemon Adventures - Pokemon Themed Procrastination App**
+
 Pokrastemon Adventures is a fun and engaging Pokemon-themed procrastination app that allows users to collect virtual Pokemon, eggs, and chests while studying or working. 
 
 This README provides an overview of the app, its features, setup instructions, and other essential details.
@@ -28,14 +29,22 @@ Getting Started
 Follow these instructions to set up and run the Pokrastemon Adventures app on your local machine.
 
 **Prerequisites**
+
 Node.js: Make sure you have Node.js installed on your system. You can download it from the official website: Node.js
-Installation
+
+**Installation**
+
 Clone the repository to your local machine.
+
 Install the required dependencies:
+
 npm install
+
 Usage
 Start the development server:
+
 npm start
+
 Open your web browser and visit http://localhost:3000 to access the app.
 
 Sign up for a new account or log in with your existing credentials.
