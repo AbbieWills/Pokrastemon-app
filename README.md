@@ -3,13 +3,14 @@ Pokrastemon Adventures is a fun and engaging Pokemon-themed procrastination app 
 
 This README provides an overview of the app, its features, setup instructions, and other essential details.
 
-**Table of Contents
+**Table of Contents**
 Introduction
 Features
 Getting Started
 Prerequisites
 Installation
 Usage
+
 
 
 **Introduction** 
