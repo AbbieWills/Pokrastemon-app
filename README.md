@@ -14,9 +14,11 @@ Usage
 
 
 **Introduction** 
+
 Pokrastemon Adventures is a React-based web application that combines productivity with gamification. Users can sign up, log in, and start collecting virtual Pokemon as they study or work. The app encourages users to achieve their goals by providing rewards in the form of Pokemon characters and other items from the Pokemon world.
 
 **Features**
+
 User Authentication: Users can sign up for an account or log in with their existing credentials.
 Study and Collect: Users can study or work using the app and earn virtual Pokemon, eggs, and chests.
 Pokeball Chests: Users can open the Pokeball chests they collect to reveal new Pokemon characters.
